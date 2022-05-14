@@ -191,3 +191,6 @@ df5
 ![OUTPUT](O.png)
 ![OUTPUT](P.png)
 ![OUTPUT](Q.png)
+
+# Result :
+Thus the operations on encoding.csv,data.csv,titanic dataset is successfully done.
